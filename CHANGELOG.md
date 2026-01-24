@@ -6,4 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] &ndash; 2026-01-24
+
+### Fixed
+- Fixed TypeScript type definition to use correct CommonJS export syntax
+
 ## [1.0.0] &ndash; 2021-04-01

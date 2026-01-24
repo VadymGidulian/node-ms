@@ -3,4 +3,5 @@
  *
  * @param string - Duration in human-readable format
  */
-export default function ms(string: string): number;
+declare function ms(string: string): number;
+export = ms;

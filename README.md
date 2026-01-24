@@ -42,5 +42,5 @@ ms('1 eternity') // NaN
 setInterval(fn, ms('every 2 hours and 24 minutes')) // 8_640_000
 
 setTimeout(fn, ms('the function specified as the 1st argument ' +
-				  'will be executed in 5 seconds and will take less than a minute')) // 5_000
+                  'will be executed in 5 seconds and will take less than a minute')) // 5_000
 ```
